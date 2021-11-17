@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "bags",
+    "password": "123456",
+    "database": "jwt_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "bags",
+    "password": "123456",
+    "database": "jwt_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "bags",
+    "password": "123456",
+    "database": "jwt_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
